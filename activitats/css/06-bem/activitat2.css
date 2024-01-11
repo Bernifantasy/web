@@ -1,0 +1,40 @@
+
+body{
+    align-items: center;
+    text-align: center;
+}
+
+.container-comentaris{
+    max-width: 600px;
+    margin: 500px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+.formulari{
+    margin-bottom: 20px;
+}
+
+.fomulari textarea {
+    width: 100%;
+    margin: 0;
+}
+
+.formulari button{
+    padding: 10px;
+    margin: 0;
+    background-color: rgb(114, 114, 226);
+    color:#fff;
+    border: none;
+    cursor: pointer;
+}
+
+.comentaris{
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid ;
+}
+
+.comentaris p {
+    margin: 0;
+}
