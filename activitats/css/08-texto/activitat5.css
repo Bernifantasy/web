@@ -1,0 +1,15 @@
+.cursiva{
+    font-style: italic;
+}
+
+.negreta{
+    font-weight: bold;
+}
+
+.groc{
+    background-color: yellow;
+}
+
+.majuscules{
+    text-transform: uppercase;
+}
