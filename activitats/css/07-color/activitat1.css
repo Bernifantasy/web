@@ -1,0 +1,23 @@
+.negreta{
+    font-weight: bold;
+}
+
+
+.groc{
+    color: rgb(164, 164, 13);
+    font-weight: bold;
+}
+
+.blau{
+    background-color: blue;
+    color: white;
+}
+
+.verd{
+    background-color: green;
+    color: white;
+}
+
+.lila{
+    color: rebeccapurple;
+}
