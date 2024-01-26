@@ -1,0 +1,41 @@
+header{
+    width: 100%;
+}
+header p{
+    color: red;
+    font-size: 40px;
+    font-weight: 100;
+}
+.blog{
+    font-weight: bold;
+    font-size: 25px;
+}
+p{
+    font-size: 20px;
+    font-weight: 100;
+
+}
+.subrayat{
+    background-color: red;
+    color: white;
+}
+
+.writing{
+    background-color: rgb(245, 243, 243);
+    padding: 15px;
+    padding-bottom: 100px;
+}
+.data{
+    font-style: italic;
+    color: rgb(172, 166, 166);
+}
+.rojo{
+    text-decoration: underline black;
+    color: red;
+    font-weight: bold;
+}
+.read_more{
+    text-decoration: underline black;
+    color: red;
+    font-style: italic;
+}
