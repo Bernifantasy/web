@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+  }
+
+header {
+    background-color: #333;
+    color: #fff;
+  }
+
+nav {
+    display: flex;
+    justify-content: center;
+  }
+
+ul {
+    list-style: none;
+    display: flex;
+  }
+
+li {
+    margin: 0 10px;
+  }
+
+a {
+    color: #fff;
+    font-weight: bold;
+    font-size: 16px;
+  }
