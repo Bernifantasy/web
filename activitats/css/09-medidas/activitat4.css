@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    padding: 20px;
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f0f0;
+  }
+
+  .destacado {
+    background-color: rgba(255, 255, 0, 0.5); 
+    text-decoration: underline;
+  }
