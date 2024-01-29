@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    align-items: center;
+    background-color: #f0f0f0;
+  }
+
+  .parragraf {
+    background-color: #3498db; /* Azul */
+    color: #fff;
+    padding: 20px;
+    max-height: 10rem;
+    min-height: 5rem;
+    overflow: hidden;
+  }

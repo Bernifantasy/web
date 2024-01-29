@@ -1,0 +1,41 @@
+.chat {
+    max-width: 600px;
+    margin: auto;
+  }
+
+  .misatge {
+    margin-bottom: 10px;
+    display: flex;
+  }
+
+  .avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+  }
+
+  .contingut_missatge {
+    background-color: #d5cfcf;
+    border-radius: 8px;
+    padding: 10px;
+    max-width: 70%;
+  }
+
+  .data {
+    font-size: 12px;
+    color: #888888;
+  }
+
+  .persona {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+
+  .persona1 {
+    color: #3498db; /* Azul */
+  }
+
+  .persona2 {
+    color: #e74c3c; /* Rojo */
+  }
