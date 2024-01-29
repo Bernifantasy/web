@@ -1,0 +1,26 @@
+body{
+    background-color: rgba(210, 226, 140, 0.493);
+    margin: 18%;
+
+}
+
+.container{
+    align-items: center;
+    width: 30vh;
+}
+.text{
+    font-size: 20px;
+    max-width: 40%;
+    float: left;
+}
+
+img{
+    float: right;
+    max-width: 60%;
+    position: static;
+}
+
+p{
+    font-size: 20px;
+
+}
