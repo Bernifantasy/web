@@ -1,7 +1,17 @@
-body{
-    font-family: 'Open Sans', sans-serif;
+@font-face {
+    font-family: 'Lobster';
+    src: url(../../../fuentes/Lobster-Regular.ttf);
 }
 
-.tipografia{
-    font-family: 'Lobster',cursive;
+.lobster{
+    font-family: 'Lobster';
+}
+
+@font-face {
+    font-family: 'OpenSans';
+    src: url(../../../fuentes/OpenSans-Regular.ttf);
+}
+
+.opensans{
+    font-family: 'OpenSans';
 }
