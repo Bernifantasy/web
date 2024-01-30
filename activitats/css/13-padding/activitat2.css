@@ -1,0 +1,54 @@
+.container{
+    width: 150px;
+    position: absolute;
+    left: 45%;
+    border: 2px solid rgb(224, 222, 222);
+    padding: 25px;
+    height:90%;
+}
+
+img{
+    width: 20px;
+}
+
+section p{
+    color: rgb(129, 125, 125);
+    padding: 10px;
+    margin: 5px;
+}
+
+.boto2{
+    margin-top: 90px;
+    background-color: white;
+    border: 0;
+    color: rgb(70, 116, 111);
+    font-weight: bold;
+}
+
+.boto{
+    background-color: rgb(63, 146, 142);
+    color: white;
+    padding: 10px 20px;
+    border: 0;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.text{
+    color: grey;
+    padding-bottom: 15px;
+}
+
+.zero{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.dolar{
+    font-size: 10px;
+}
+
+p{
+    margin: 0;
+    padding: 0;
+}
