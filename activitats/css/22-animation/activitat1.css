@@ -1,0 +1,25 @@
+.sol, .lluna {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: yellow; 
+    transition: background-color 0.5s;
+}
+
+.lluna {
+    background-color: #ccc; 
+    animation: eclipse 4s infinite alternate; 
+}
+
+@keyframes eclipse {
+    0%, 100% {
+        background-color: #ccc; 
+    }
+    50% {
+        background-color: yellow; 
+    }
+}

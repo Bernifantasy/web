@@ -1,0 +1,17 @@
+.noria {
+    width: 200px;
+    height: 200px;
+    background-image: url('../../../imagenes/noria.png'); 
+    background-size: cover;
+    border-radius: 50%;
+    animation: rotate 10s linear infinite;
+}
+
+@keyframes rotate {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}

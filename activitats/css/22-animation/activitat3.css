@@ -1,0 +1,36 @@
+.noria {
+    width: 200px;
+    height: 200px;
+    background-image: url('../../../imagenes/noria.png'); 
+    background-size: cover;
+    border-radius: 50%;
+    animation: rotate 10s linear infinite; 
+}
+
+.cookies {
+    display: none;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    opacity: 0;
+    transition: opacity 2s ease-out 8s; 
+}
+
+@keyframes rotate {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+body:hover .cookies {
+    display: block;
+    opacity: 1;
+}

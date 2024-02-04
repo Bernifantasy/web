@@ -1,0 +1,13 @@
+.container {
+    position: relative;
+    display: inline-block;
+}
+
+.gris {
+    filter: grayscale(0%);
+    transition: filter 0.5s;
+}
+
+.container:hover .gris {
+    filter: grayscale(100%);
+}

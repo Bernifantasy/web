@@ -1,0 +1,21 @@
+li{
+    background-color: darkcyan;
+    color: white;
+    padding: 5px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+ul{
+    
+    width: 80px;
+    list-style: none;
+    margin-left: 10px;
+}
+
+li:hover{
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+    cursor: pointer;
+}

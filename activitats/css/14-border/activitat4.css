@@ -1,0 +1,5 @@
+img{
+    padding: 5px;
+    border: 4px solid;
+    border-image: linear-gradient(turquoise,red) 1;
+}

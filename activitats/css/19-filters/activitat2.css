@@ -1,0 +1,13 @@
+.container {
+    position: relative;
+    display: inline-block;
+}
+
+.rayos {
+    filter: invert(0%);
+    transition: filter 0.5s;
+}
+
+.container:hover .rayos {
+    filter: invert(100%);
+}

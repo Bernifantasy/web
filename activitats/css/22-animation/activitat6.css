@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0; /* Color de fondo */
+}
+.container {
+    position: relative;
+    width: 2px;
+    height: 200px;
+    background-color: #333;
+    margin-top: 100px;
+    animation: swing 2s ease-in-out infinite;
+    transform-origin: top center;
+}
+
+.pendul {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    width: 20px;
+    height: 20px;
+    background-color: #333;
+    border-radius: 50%;
+}
+
+@keyframes swing {
+    0%, 100% {
+        transform: rotate(-20deg);
+    }
+    50% {
+        transform: rotate(20deg);
+    }
+}
