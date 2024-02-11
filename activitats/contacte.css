@@ -52,3 +52,7 @@ header ul li a:hover {
 header ul li a.active{
     color: #00abf0;
 }
+
+.formulari{
+    text-align: center;
+}
