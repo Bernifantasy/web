@@ -38,17 +38,70 @@ header ul li a {
     padding-bottom: 23px;
     padding-right: 30px;
     padding-left: 30px;
-    background-color: rgb(92, 88, 88);
     font-size: 20px;
     font-weight: bold;
 }
 header ul li a:hover {
     text-decoration: none;
-    color: black;
+    color: #00abf0;
     padding-top: 27px;
     padding-bottom: 23px;
     padding-right: 30px;
     padding-left: 30px;
-    background-color: rgb(255, 0, 0);
+}
+header ul li a.active{
+    color: #00abf0;
 }
 
+
+.inici{
+    display: flex;
+    background-image: url(/imagenes/foto_fondo.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    align-items: center;
+    padding: 0 10%;
+    padding-bottom: 50px;
+}
+.inici-container{
+    max-width: 600px;
+}
+
+.inici-container h1{
+    font-size: 56px;
+    font-weight: 700;
+}
+
+.inici-container h3{
+    font-size: 32px;
+    font-weight: 700;
+}
+
+footer{
+    text-align: center;
+    position: absolute;
+    bottom: 40px;
+    width: 100%;
+    justify-content: space-between;
+}
+
+footer .enllaços a{
+    position: relative;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    background: transparent;
+    border: 2px solid #00abf0;
+    border-radius: 20px;
+    color: #00abf0;
+    text-decoration: none;
+
+}
+footer .enllaços p{
+    float: left;
+    padding-left: 50px;
+    padding-top: 10px;
+}
