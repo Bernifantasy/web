@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title></title>
+    <link></link>
+    <subtitle></subtitle>
+
+
+    <entry>
+        <title>Creació d'un nou llenguatge de programació inspirat en la cultura catalana:</title>
+        <summary>Desenvolupadors catalans presenten un nou llenguatge de programació que incorpora elements de la cultura i la història catalana, fomentant la preservació i difusió del patrimoni cultural a través de la tecnologia.</summary>
+        <published>Dijous,15 Febrer 2024</published>
+    </entry>
+
+    <entry>
+        <title>Organització d'una conferència internacional sobre ciberseguretat a Barcelona:</title>
+        <summary>Barcelona acull una conferència de referència en el camp de la ciberseguretat, reunits experts internacionals per abordar els reptes emergents i les solucions innovadores en la protecció de les infraestructures digitals.</summary>
+        <published>Dijous,15 Febrer 2024</published>
+    </entry>
+
+    <entry>
+        <title>Llançament d'una nova plataforma de formació en línia en català:</title>
+        <summary>Una plataforma educativa catalana presenta una extensa oferta de cursos en línia en català, destinats a promoure l'aprenentatge continu i l'actualització professional dins de la comunitat catalanoparlant.</summary>
+        <published>Dijous,15 Febrer 2024</published>
+    </entry>
+
+
+</feed>
