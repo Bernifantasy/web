@@ -21,7 +21,7 @@
           <title>Llançament d'una nova plataforma de formació en línia en català:</title>
           <description>Una plataforma educativa catalana presenta una extensa oferta de cursos en línia en català, destinats a promoure l'aprenentatge continu i l'actualització professional dins de la comunitat catalanoparlant.</description>
           <pubDate>Dijous,15 Febrer 2024</pubDate>
-          <enclosure url="./imagenes/imatge.png" />
+          <content type="./imagenes/imatge.png" src="./imagenes/imatge.png"></content>
         </item>
     </channel>
 </rss>
