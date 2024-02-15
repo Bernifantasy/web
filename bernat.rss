@@ -1,0 +1,27 @@
+<rss version="2.0">
+    <channel>
+    
+      <title>RSS Bernat Alvarez Borrell</title>
+      <link>https://bernifantasy.github.io</link>
+      <description>Aquest es el meu canal de noticies</description>
+      
+        <item>
+          <title>Creació d'un nou llenguatge de programació inspirat en la cultura catalana: </title>
+          <description>Desenvolupadors catalans presenten un nou llenguatge de programació que incorpora elements de la cultura i la història catalana, fomentant la preservació i difusió del patrimoni cultural a través de la tecnologia.</description>
+          <pubDate>Dijous,15 Febrer 2024</pubDate>
+        </item>
+        
+        <item>
+          <title>Organització d'una conferència internacional sobre ciberseguretat a Barcelona:</title>
+          <description>Barcelona acull una conferència de referència en el camp de la ciberseguretat, reunits experts internacionals per abordar els reptes emergents i les solucions innovadores en la protecció de les infraestructures digitals.</description>
+          <pubDate>Dijous,15 Febrer 2024</pubDate>
+        </item>
+        
+        <item>
+          <title>Llançament d'una nova plataforma de formació en línia en català:</title>
+          <description>Una plataforma educativa catalana presenta una extensa oferta de cursos en línia en català, destinats a promoure l'aprenentatge continu i l'actualització professional dins de la comunitat catalanoparlant.</description>
+          <pubDate>Dijous,15 Febrer 2024</pubDate>
+          <enclosure url="../imatge.png" />
+        </item>
+    </channel>
+</rss>
